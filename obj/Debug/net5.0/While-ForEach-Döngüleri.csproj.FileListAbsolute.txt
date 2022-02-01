@@ -1,0 +1,16 @@
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\bin\Debug\net5.0\While-ForEach-Döngüleri.exe
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\bin\Debug\net5.0\While-ForEach-Döngüleri.deps.json
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\bin\Debug\net5.0\While-ForEach-Döngüleri.runtimeconfig.json
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\bin\Debug\net5.0\While-ForEach-Döngüleri.runtimeconfig.dev.json
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\bin\Debug\net5.0\While-ForEach-Döngüleri.dll
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\bin\Debug\net5.0\ref\While-ForEach-Döngüleri.dll
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\bin\Debug\net5.0\While-ForEach-Döngüleri.pdb
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\While-ForEach-Döngüleri.csproj.AssemblyReference.cache
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\While-ForEach-Döngüleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\While-ForEach-Döngüleri.AssemblyInfoInputs.cache
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\While-ForEach-Döngüleri.AssemblyInfo.cs
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\While-ForEach-Döngüleri.csproj.CoreCompileInputs.cache
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\While-ForEach-Döngüleri.dll
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\ref\While-ForEach-Döngüleri.dll
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\While-ForEach-Döngüleri.pdb
+C:\Users\okans\Desktop\pratikler\While-ForEach-Döngüleri\obj\Debug\net5.0\While-ForEach-Döngüleri.genruntimeconfig.cache

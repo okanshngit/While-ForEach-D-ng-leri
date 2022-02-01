@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0wW+AmNIeFPmzWuams3i/4wsL3fWaRWoY15RgBiuRbVq8XRM8y+YnB/u4DJMIlucuM1xt59MTI0A8cHz18X7kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okans\\Desktop\\pratikler\\While-ForEach-Döngüleri\\While-ForEach-Döngüleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
